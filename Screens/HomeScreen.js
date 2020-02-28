@@ -60,7 +60,9 @@ gridItems:{
     borderRadius:10,
     elevation:3,
     padding:15,
-    justifyContent : 'flex-end'
+    justifyContent : 'flex-end',
+    overflow:'hidden'
+    
 },
 image: {
     width:120,

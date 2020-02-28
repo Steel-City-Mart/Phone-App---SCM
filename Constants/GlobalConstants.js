@@ -1,4 +1,5 @@
 export default {
     primary : '#6495ed',
-    iconColor : 'white'
+    iconColor : 'white',
+    bottomTabColor : 'red'
 }
